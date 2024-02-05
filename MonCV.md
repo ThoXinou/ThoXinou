@@ -8,7 +8,7 @@ gestion logistique d'un atelier, je souhaite dorénavant me reconvertir dans le 
 
 
 ## EXPERIENCES PROFESSIONNELLES
- * Mars 2021 - Juillet 2023 : CEAT ELECTRONIQUE / Référent Logisiticien
+ * **Mars 2021 - Juillet 2023 : CEAT ELECTRONIQUE / Référent Logisiticien**
 > Gestion d'une équipe de logisticiens, permettant de
 superviser l'approvisionnement, l'identification, le suivi, et
 l'expédition des produits qui transitent dans notre atelier de
@@ -19,14 +19,14 @@ TAT, l'OTD, etc ... Afin d'optimiser la distribution des produits
 aux techniciens, et ainsi, correspondre au mieux aux
 exigences de nos clients.
 
- * Fevrier 2019 - Mars 2021 : CEAT ELECTRONIQUE / Référent Magasinier
+ * **Fevrier 2019 - Mars 2021 : CEAT ELECTRONIQUE / Référent Magasinier**
 > Gestion de la partie "Magasin / Pièces détachées" de notre
 atelier de réparation. J'étais en charge, entre autres, de la
 gestion des stocks, de la distribution des pièces détachées à
 nos techniciens, ainsi que la préparation des commandes
 pour différentes grandes enseignes.
 
- * Mars 2008 - Février 2019 : CEAT ELECTRONIQUE / Technicien SAV
+ * **Mars 2008 - Février 2019 : CEAT ELECTRONIQUE / Technicien SAV**
 > Réalisation de diagnostics et réparation de téléphones
 portables (puis de smartphones) et de Notebooks de
 grandes marques. Pendant deux ans, j'ai également procédé
@@ -36,9 +36,9 @@ aux clients.
 
 ## FORMATIONS
 
- * Février 2024 - Juillet 2024 : Formation TSSR (Technicien Supérieur Systèmes et Réseaux) via un bootcamp en distanciel / WILD CODE SCHOOL
+ * **Février 2024 - Juillet 2024 : Formation TSSR (Technicien Supérieur Systèmes et Réseaux) via un bootcamp en distanciel** / WILD CODE SCHOOL
 
- * 2007 : Obtention du Baccalauréat Scientifique / LYCEE STEPHEN LIEGEARD (BROCHON - 21)
+ * **2007 : Obtention du Baccalauréat Scientifique** / LYCEE STEPHEN LIEGEARD (BROCHON - 21)
 
 
 ## LOISIRS
