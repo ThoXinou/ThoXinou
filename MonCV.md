@@ -1,4 +1,5 @@
 # Thomas SCOTTI
+![Thomas](https://media.licdn.com/dms/image/D4E03AQEtqZlVq6TOcg/profile-displayphoto-shrink_800_800/0/1699430579800?e=2147483647&v=beta&t=st-l1JcH6w1-7wyduCaNmxDIZSJ5ilB7q49aIPidIjo)
 
 _Après plus de 15 ans passés dans le domaine des
 produits technologiques du quotidien, tant au niveau
@@ -44,3 +45,4 @@ aux clients.
 
  * Jeux-Vidéos
  * Lecture (Webzines informatiques, type [Le Journal Du Geek](https://www.journaldugeek.com/))
+ * Sport (Musculation)
